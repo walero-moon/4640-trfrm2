@@ -1,0 +1,6 @@
+do_token
+.env
+*.tfvars
+.terraform
+.terraform.lock.hcl
+spirit-digital-ocean
